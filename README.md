@@ -6,10 +6,12 @@
 
 3.Update the path of dataset and resnet model path. 
 
-4.```bash
+### Train/Test
+
+```bash
 python train_model.py 
 ```
 
-5.```bash
+```bash
 python finetune_model.py 
 ```

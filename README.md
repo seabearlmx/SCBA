@@ -1,6 +1,6 @@
 # SCBF
 
-##Installation
+## Installation
 
 -Install PyTorch and dependencies from http://pytorch.org
 

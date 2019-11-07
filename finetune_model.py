@@ -36,7 +36,7 @@ cudnn.benchmark = True
 
 
 
-model = hbp_model.Net()
+model = sccbf_model.Net()
 
 model.cuda()
 

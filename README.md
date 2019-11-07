@@ -12,7 +12,7 @@
 
 -Update the path of dataset and resnet model path. 
 
-## Train/Test
+## Train
 
 ```bash
 python train_model.py 

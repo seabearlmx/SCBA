@@ -1,12 +1,18 @@
-# SCCBF
+# SCBF
 
-1.Download CUB-200-2011 dataset.
+##Installation
 
-2.Download resnet-50 model : https://download.pytorch.org/models/resnet50-19c8e357.pth 
+-Install PyTorch and dependencies from http://pytorch.org
 
-3.Update the path of dataset and resnet model path. 
+-Install python 3.6 from Anaconda.
 
-### Train/Test
+-Download CUB-200-2011 dataset.
+
+-Download resnet-50 model : https://download.pytorch.org/models/resnet50-19c8e357.pth 
+
+-Update the path of dataset and resnet model path. 
+
+## Train/Test
 
 ```bash
 python train_model.py 
